@@ -5,7 +5,7 @@ Coronary Heart Disease (CHD) is the most common type of heart disease in the Uni
 Prediction of CHD is regarded as one of the most important subject of clinical data analysis.Many of the factors that determine one's risk of developing coronary heart disease are, to a large extent, under ones’ control. Hence early prognosis of this disease can aid in making decisions on lifestyle changes in high risk patients and in turn mitigate the risk. This project intends to pinpoint the most relevant risk factors of heart disease as well as predict the overall risk.     
 
 ## The Data     
-The dataset is from a cardiovascular study on residents of the town of Framingham,Massachusetts. The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD). The dataset provides the patients’ demographic,behavioural and medical information. It includes over 4,000 records and 15 attributes.
+The dataset is from a cardiovascular study on residents of the town of Framingham,Massachusetts. The classification goal is to predict whether the patient has 10-year risk of future coronary heart disease (CHD). The dataset provides the patients’ demographic,behavioural and medical information. It includes over 4,000 records and 15 attributes.     
 Dataset Source : https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset        
 
 ## Attributes:     
