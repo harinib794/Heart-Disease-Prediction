@@ -38,6 +38,8 @@ The following classification models are used for classification:
 • Random Forest    
 All models are trained on 4 datasets which are training dataset as it is, under sampled dataset, oversampled dataset and dataset created by over and under sampling. Model with the highest accuracy and specificity from confusion matrix is selected as the best model.      
 
+Refer to Heart Disease Prediction.md for detailed approach and analysis.    
+
 ## Conclusion     
 The best models among the four models are:     
 • SVM model with test accuracy of 59%. Sensitivity of the model is 60% and specificity of the model is 70%.AUC is 64%.     
